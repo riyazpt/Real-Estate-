@@ -7,10 +7,10 @@ and filter according to specifications
 
 ## Link
 
-To visit [Real Estate  App click here ](https://hoo-bank-rose-nine.vercel.app/)
+To visit [Real Estate  App click here ]()
 
 
-![](https://github.com/riyazpt/Monster-Slayer-Game/blob/main/images/hoo-bank.png)
+
 
 ## How to run locally
 
