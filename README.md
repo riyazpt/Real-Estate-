@@ -7,7 +7,7 @@ and filter according to specifications
 
 ## Link
 
-To visit [Real Estate  App click here ](https://real-estate-eight-zeta.vercel.app/)
+To visit [Real Estate  App click here ](https://real-estate-sp3w.vercel.app/)
 
 
 ![](https://github.com/riyazpt/Monster-Slayer-Game/blob/main/images/real-estate.png)
